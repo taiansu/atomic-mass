@@ -1,0 +1,11 @@
+{
+  "name": "atomic-mass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atomic-mass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TAI AN SU",
+  "license": "UNLICENSED"
+}
